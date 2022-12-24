@@ -1,3 +1,5 @@
+# 2d arrayli ödev 7 dosyası
+
 def tablo_yazdir(iki_boyutlu_liste, sporcu_say, atis_say):
     KAC_ADET_PUAN_TURU_VAR = 11
     puantop = 0
